@@ -1,0 +1,7 @@
+number_of_points      = 200
+
+number_of_protons     = 6
+number_of_neutrons    = 6
+
+beam_energy           = 0.680   // Energy of incident electron (GeV)
+outgoing_lepton_angle = 36      // In degrees
